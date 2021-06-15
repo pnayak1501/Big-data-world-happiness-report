@@ -38,7 +38,9 @@ efficiently use more types of computations which includes Interactive Queries an
 Stream Processing.
 
 # Tools Used:
-● Google Colab
-● Pyspark
-● Numpy
-● Pandas
+● Google Colab <br>
+● Pyspark <br>
+● Numpy <br>
+● Pandas <br>
+
+
