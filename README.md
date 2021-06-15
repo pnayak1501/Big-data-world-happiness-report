@@ -48,3 +48,11 @@ Stream Processing.
 ![](ss/2.png)
 ![](ss/3.png)
 ![](ss/4.png)
+
+# References
+● https://spark.apache.org/docs/latest/api/python/   <br>
+● https://spark.apache.org/    <br>
+● https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report.csv   <br>
+● https://worldhappiness.report/ed/2021/   <br>
+● https://databricks.com/glossary/pyspark  <br>
+● https://realpython.com/pyspark-intro/  <br>
