@@ -36,3 +36,9 @@ The Apache Spark is a lightning-fast cluster computing designed for fast computa
 was built on top of Hadoop MapReduce and it extends the MapReduce model to
 efficiently use more types of computations which includes Interactive Queries and
 Stream Processing.
+
+# Tools Used:
+● Google Colab
+● Pyspark
+● Numpy
+● Pandas
